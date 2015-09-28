@@ -6,8 +6,8 @@ import android.content.Context;
 
 public class AccountUtils {
 
-	public static final String ACCOUNT_TYPE = "com.hootsuite.example";
-	public static final String AUTH_TOKEN_TYPE = "com.hootsuite.example.aaa";
+	public static final String ACCOUNT_TYPE = "com.simon.accountsample";
+	public static final String AUTH_TOKEN_TYPE = "com.simon.accountsample.aaa";
 	
 	public static IServerAuthenticator mServerAuthenticator = new MyServerAuthenticator();
 	
