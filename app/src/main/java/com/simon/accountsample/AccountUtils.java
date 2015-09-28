@@ -1,4 +1,4 @@
-package com.hootsuite.account;
+package com.simon.accountsample;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
